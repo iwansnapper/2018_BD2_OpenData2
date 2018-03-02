@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519588855989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3716134403",
+    "id" : "1E48F2F2",
+    "lastKnownWriteTime" : 1519766250,
+    "last_content_update" : 1519766250882,
+    "path" : "D:/Development/Projects/Big Data Project/2018_BD2_OpenData2/R Code/dbconnection/amsterdam_MYSQL_connection.R",
+    "project_path" : "dbconnection/amsterdam_MYSQL_connection.R",
+    "properties" : {
+        "cursorPosition" : "12,33",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

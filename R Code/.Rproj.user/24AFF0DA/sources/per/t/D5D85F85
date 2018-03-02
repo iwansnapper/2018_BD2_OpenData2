@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519589476438.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1875241679",
+    "id" : "D5D85F85",
+    "lastKnownWriteTime" : 1519910143,
+    "last_content_update" : 1519910143035,
+    "path" : "D:/Development/Projects/Big Data Project/2018_BD2_OpenData2/R Code/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "343,35",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

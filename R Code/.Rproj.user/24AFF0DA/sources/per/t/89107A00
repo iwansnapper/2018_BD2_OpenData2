@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519769126382.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1806831642",
+    "id" : "89107A00",
+    "lastKnownWriteTime" : 1519911475,
+    "last_content_update" : 1519911475044,
+    "path" : "D:/Development/Projects/Big Data Project/2018_BD2_OpenData2/R Code/tabCorrelatie/CorrelatieGraphs.R",
+    "project_path" : "tabCorrelatie/CorrelatieGraphs.R",
+    "properties" : {
+        "cursorPosition" : "65,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
